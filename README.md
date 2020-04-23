@@ -1,5 +1,7 @@
 # @sinoui/switch
 
+> 此项目不再维护，请使用[@sinoui/core](https://github.com/sinoui/core)库中的switch组件。
+
 [![npm version](https://img.shields.io/npm/v/@sinoui/switch)](https://www.npmjs.com/package/@sinoui/switch)
 [![downloads](https://img.shields.io/npm/dm/@sinoui/switch)](https://www.npmjs.com/package/@sinoui/switch)
 
